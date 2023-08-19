@@ -1,1 +1,6 @@
-{"context": "Covid safety", "audience": "kids", "behave_like": "You are a kid, who is learning", "history": "Human: Always remember to use Face Mask in public places\nAI: and avoid touching your face with hands.\n\nWash your hands often and\nHuman: With soap or handwash formula\nAI: , rub your hands together. Wash for at least 20 seconds.\nHuman: take bath regularly \nAI: Be sure to take a bath regularly\n"}
+{
+    "context": "Covid safety",
+    "audience": "kids",
+    "behave_like": "You are a kid, who is learning",
+    "history": "Human: Always remember to use Face Mask in public places\nAI: and avoid touching your face with hands.\n\nWash your hands often and\nHuman: With soap or handwash formula\nAI: , rub your hands together. Wash for at least 20 seconds.\nHuman: take bath regularly \nAI: Be sure to take a bath regularly\nHuman: You should also stay hygine and do not leave home without it is required to \nAI: avoid the risk of spreading virus.\nHuman: Brush your teeth\nAI: twice a day and practice good hygiene habits. Make sure to keep your distance from\n"
+}
